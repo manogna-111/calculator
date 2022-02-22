@@ -7,4 +7,9 @@ def multiply(x,y):
 def divide(x,y):
   return x/y
 thanks for using calculator
+
+sqrt == num ** 0.5
+DONE
+
 Done with caculator
+
